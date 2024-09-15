@@ -41,9 +41,12 @@
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
+    <a>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Google_Apps_Script_logo.svg/512px-Google_Apps_Script_logo.svg.png" alt="Google Apps Script" width="40" height="40">
+      </a>
+      <a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40">
-
+  </a>
 </div>
 
 <br>
