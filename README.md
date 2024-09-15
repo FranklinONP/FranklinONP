@@ -45,14 +45,14 @@
   </a>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranlinONP&layout=compact&theme=ocean_dark)](https://github.com/FranklinONP/github-readme-stats)
+
 <h3 style="text-align: center;">Statistical Data :-</h3>
 <div style="text-align: center;">
   <p><img align="center"
       src="https://github-readme-stats.vercel.app/api?username=FranklinONP&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
       alt="FranklinONP" /></p>
 </div>
-
-<br>
 
 <div align="center" class="icons-social">
   <a style="margin: 0 10px;" target="_blank" href="https://www.instagram.com/orlando_noj">
