@@ -45,7 +45,7 @@
   </a>
 </div>
 
-
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinONP&layout=compact&theme=ocean_dark)](https://github.com/FranklinONP/EDD_PROYECTO_202200089)
 
