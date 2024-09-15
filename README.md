@@ -45,7 +45,7 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranlinONP&layout=compact&theme=ocean_dark)](https://github.com/FranklinONP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranlinONP&layout=compact&theme=ocean_dark)](https://github.com/FranklinONP/EDD_PROYECTO_202200089)
 
 <h3 style="text-align: center;">Statistical Data :-</h3>
 <div style="text-align: center;">
