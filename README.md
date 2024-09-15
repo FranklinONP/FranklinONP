@@ -1,39 +1,26 @@
-## Hi there 👋
+<p align="center">
 
-# ¡Hola, soy [Tu Nombre]! 👋
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/orlando_noj">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
 
-## Sobre mí
-Soy un apasionado desarrollador de software con experiencia en múltiples lenguajes de programación. Me encanta enfrentarme a nuevos desafíos y aprender constantemente.
+</p>
 
-## Mis habilidades 🚀
-
-- Java ☕
-- TypeScript/JavaScript 📜
-- Python 🐍
-- Go 🐹
-- Fortran 🔢
-- AppleScript 🍎
-
-## Proyectos destacados
-
-- [Nombre del Proyecto 1](enlace): Breve descripción del proyecto.
-- [Nombre del Proyecto 2](enlace): Breve descripción del proyecto.
-- [Nombre del Proyecto 3](enlace): Breve descripción del proyecto.
-
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
-
-## Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)
-
-## Conéctate conmigo
-
-- [LinkedIn](Tu perfil de LinkedIn)
-- [Twitter](Tu perfil de Twitter)
-- [Sitio web personal](Tu sitio web)
-
----
-
-⭐️ ¡No dudes en explorar mis repositorios y dejar una estrella si encuentras algo interesante!
+<!-- <p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=damianpeaf&cover_image=true&theme=novatorem&bar_color=b14eae&bar_color_cover=true" alt="No estoy escuchando musica :(">
+</p> -->
