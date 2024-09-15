@@ -2,8 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%23FFA500&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Franklin+Noj+%F0%9F%91%8B;Computer+Science+Engineering+Student;From+San+Carlos+University+of+Guatemala&font=bold" alt="Headline" />
 </div>
 
-
-<h3 align="center">Languages and Tools:</h3>
+<h3 style="text-align: center;">Languages and Tools:</h3>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
@@ -30,25 +29,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" />
-</a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-</a>
-
-<a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40" />
-</a>
-
-<a href="https://www.docker.com" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-</a>
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-</a>
-
+  </a>
 </div>
-
 
 <h3 style="text-align: center;">Statistical Data :-</h3>
 <div style="text-align: center;">
@@ -57,26 +52,16 @@
       alt="FranklinONP" /></p>
 </div>
 
-
-
-
-
-
-
 <br>
 
-
-
-
-<p align="center">
-
- <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/orlando_noj">
-            <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/Master10Frank?mibextid=ZbWKwL">
-            <img src="https://img.icons8.com/doodle/40/000000/facebook-new.png"></a>
-        <a style="margin-left: 10px;" href="mailto:master11frank@gmail.com">
-            <img src="https://img.icons8.com/doodle/40/000000/new-post.png"></a>
-    </div>
-
-</p>
+<div align="center" class="icons-social">
+  <a style="margin: 0 10px;" target="_blank" href="https://www.instagram.com/orlando_noj">
+    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram" />
+  </a>
+  <a style="margin: 0 10px;" target="_blank" href="https://www.facebook.com/Master10Frank?mibextid=ZbWKwL">
+    <img src="https://img.icons8.com/doodle/40/000000/facebook-new.png" alt="Facebook" />
+  </a>
+  <a style="margin: 0 10px;" href="mailto:master11frank@gmail.com">
+    <img src="https://img.icons8.com/doodle/40/000000/new-post.png" alt="Email" />
+  </a>
+</div>
