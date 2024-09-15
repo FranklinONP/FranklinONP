@@ -42,9 +42,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
 </a>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinONP&layout=compact&theme=ocean_dark)](https://github.com/FranklinONP/EDD_PROYECTO_202200089)
