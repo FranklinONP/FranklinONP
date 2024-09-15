@@ -11,10 +11,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40" />
 </a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Ubuntu_logo_2015.svg" alt="Ubuntu" width="40" height="40" />
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GitHub_logo_2013.svg/512px-GitHub_logo_2013.svg.png" alt="GitHub" width="40" height="40" />
 </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
