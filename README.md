@@ -2,8 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%23FFA500&size=32&center=true&vCenter=true&width=700&height=50&lines=Hi+there+I'm+Franklin+Noj+%F0%9F%91%8B;Computer+Science+Engineering+Student;From+San+Carlos+University+of+Guatemala&font=bold" alt="Headline" />
 </div>
 
-<h3 style="text-align: center;">Languages and Tools:</h3>
+
 <div align="center">
+    <h3 style="text-align: center;">Languages and Tools:</h3>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" />
