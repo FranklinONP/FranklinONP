@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40" />
 </a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-  <img src="https://assets.ubuntu.com/v1/22ac7f5c-ubuntu-logo15.svg" alt="Ubuntu" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Ubuntu_logo_2018.svg" alt="Ubuntu" width="40" height="40" />
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" />
