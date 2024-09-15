@@ -3,6 +3,7 @@
 </div>
 
 <h3 style="text-align: center;">Languages and Tools:</h3>
+<div align="center">
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" />
@@ -40,10 +41,11 @@
   </a>
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+    <br>
 </a>
-
+</div>
 <br>
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinONP&layout=compact&theme=ocean_dark)](https://github.com/FranklinONP/EDD_PROYECTO_202200089)
 
 <h3 style="text-align: center;">Statistical Data :-</h3>
